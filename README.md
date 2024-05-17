@@ -8,16 +8,12 @@ Aktuell nutze ich Github dazu euch Textinformationen über ROMs zu geben und euc
 Da ich Raubkopien nicht unterstütze, werde ich keine ROMs zur Verfügung stellen.
 
 Alle .rndp sowie .sav files stammen von ROMs die ich eigenständig erstellt habe.
-Ich erstelle N64, GBC/ GBA ROMs mit dem Open Source Cartridge Reader V3 von Save the Hero Builders
-Ich erstelle 3DS, DS ROMs mit meinem New Nintendo 3DS XL mit Homebrew und GodMode9
+Ich erstelle N64, GBC/ GBA ROMs mit dem Open Source Cartridge Reader V3 von Save the Hero Builders.
+Ich erstelle 3DS, DS ROMs mit meinem New Nintendo 3DS XL mit Homebrew und GodMode9.
 Alle ROMs stammen von Spielen die ich privat besitze und wurden von mir gedumped um diese auf Emulatoren zu spielen und für mich zu modifizieren.
 
 ! ICH WEISE DARAUF HIN DAS BITTE NIEMAND ROM-DATEIEN AUS DEM INTERNET HERUNTERLADEN MÖGE, IHR HOLT EUCH NUR MALWARE UND ES IST ILLEGAL ! BITTE KAUFT EUCH DIE SPIELE UND DUMPED EURE ROM-DATEIEN SELBST !
 
-Ich nutze folgende Emulatoren:
-3DS: Citra
-NDS: MelonDS
-GBC/GBA: mGBA
-Nintendo 64: Project64
+Ich nutze folgende Emulatoren: 3DS: Citra | NDS: MelonDS | GBC/GBA: mGBA | Nintendo 64: Project64
 
 Falls Ihr Fragen dazu habt wendet euch gerne an mich direkt im Stream.
