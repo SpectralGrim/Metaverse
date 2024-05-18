@@ -17,6 +17,6 @@ Alle ROMs sind Backup-Dateien von Spielen die ich privat besitze.
 Ich nutze folgende Emulatoren: 3DS: Citra | NDS: MelonDS | GBC/GBA: mGBA | Nintendo 64: Project64
 
 Falls Ihr Fragen dazu habt wendet euch gerne an mich direkt im Stream.
-Ansonsten sind auch noch Teaminformationen oder Sonstige andere Dateien.
+Ansonsten sind auch noch Teaminformationen oder Sonstige andere Dateien hier vorhanden.
 
 Schaut euch einfach um, LG Max.
