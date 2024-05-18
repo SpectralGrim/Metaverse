@@ -12,8 +12,6 @@ Ich erstelle N64, GBC/ GBA ROMs mit dem Open Source Cartridge Reader V3 von Save
 Ich erstelle 3DS, DS ROMs mit meinem New Nintendo 3DS XL mit Homebrew und GodMode9.
 Alle ROMs sind Backup-Dateien von Spielen die ich privat besitze.
 
-! ICH WEISE DARAUF HIN DAS BITTE NIEMAND ROM-DATEIEN AUS DEM INTERNET HERUNTERLADEN SOLL, IHR HOLT EUCH NUR VIRUS MIT SAHNE ! BITTE KAUFT EUCH DIE SPIELE UND DUMPED EURE ROM-DATEIEN SELBST !
-
 Ich nutze folgende Emulatoren: 3DS: Citra | NDS: MelonDS | GBC/GBA: mGBA | Nintendo 64: Project64
 
 Falls Ihr Fragen dazu habt wendet euch gerne an mich direkt im Stream.
